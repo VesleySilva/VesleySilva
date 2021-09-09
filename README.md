@@ -1,0 +1,5 @@
+- 👋 Olá, Eu me Chamo Vesley
+- 👀 Sou programador de site e software embarcados
+- 🌱 Atualmente estou aprendendo flutter e python
+- 💞️ Gosto de colaborar os meus códigos e fica aberto para atualizações
+- 📫 Whatsapp (43) 99839-3259 - Guapirama (PR)
